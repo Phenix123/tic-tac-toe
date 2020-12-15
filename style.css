@@ -1,0 +1,18 @@
+#game {
+	width: 600px;
+	height: 600px;
+	margin: auto;
+	background: green;
+}
+
+.block {
+	width: 200px;
+	height: 200px;
+	float: left;
+	border: 1px solid black;
+	box-sizing: border-box;
+	line-height: 200px;
+	text-align: center;
+	font-size: 80px;
+	text-transform: uppercase;
+}
